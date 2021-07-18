@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/thymo/static/css/main.eb5eadf2.chunk.css",
-    "main.js": "/thymo/static/js/main.dbe316db.chunk.js",
-    "main.js.map": "/thymo/static/js/main.dbe316db.chunk.js.map",
+    "main.js": "/thymo/static/js/main.3c2d422b.chunk.js",
+    "main.js.map": "/thymo/static/js/main.3c2d422b.chunk.js.map",
     "runtime-main.js": "/thymo/static/js/runtime-main.8ac68031.js",
     "runtime-main.js.map": "/thymo/static/js/runtime-main.8ac68031.js.map",
     "static/js/2.57accd2c.chunk.js": "/thymo/static/js/2.57accd2c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8ac68031.js",
     "static/js/2.57accd2c.chunk.js",
     "static/css/main.eb5eadf2.chunk.css",
-    "static/js/main.dbe316db.chunk.js"
+    "static/js/main.3c2d422b.chunk.js"
   ]
 }
