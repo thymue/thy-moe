@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854.46 385.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #76906d;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <g id="myuu">
+    <path class="cls-1" d="M5,0s0,160,100,160S205,0,205,0"/>
+    <path class="cls-1" d="M649.46,0s0,160,100,160S849.46,0,849.46,0"/>
+    <path class="cls-1" d="M205,320s44.44,0,44.44-160c0,0,0,160,88.89,160s88.89-160,88.89-160c0,0,0,160,88.89,160s88.89-160,88.89-160"/>
+    <path class="cls-1" d="M133.97,257.28s40.28-18.78,107.9,126.23"/>
+  </g>
+</svg>
